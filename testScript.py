@@ -1,0 +1,1 @@
+print(len("Well, after a while, our creative brains say, you know what?"))
